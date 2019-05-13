@@ -1,0 +1,7 @@
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\blaycock\Documents\DevFolder\LCA_c#221_Ben_Laycock\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
