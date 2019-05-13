@@ -25,11 +25,37 @@ namespace ManyMethods
             Console.WriteLine("Sum is {0}", sum);
             Console.Read();
 
-            string Name { get; GCNotificationStatus  }
+            //CatDog
 
-            Console.Read();
 
-         
+            Console.WriteLine("Hello, do you like Cats or Dogs? Type 1 for Cats and 2 for Dogs");
+
+            int result;
+
+            if (int.TryParse(Console.ReadLine(), out result))
+
+            {
+
+                if (result == 1)
+
+                    Console.WriteLine("Meow");
+
+                else if (result == 2) 
+
+                    Console.WriteLine("Bark");
+
+                else
+
+                    Console.WriteLine("Incorrect response");
+
+            }
+
+            else
+
+                Console.WriteLine("Incorrect response");
+
+            Console.ReadLine();
+
         }
     }
 }

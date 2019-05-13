@@ -5,3 +5,10 @@ C:\Users\blaycock\Documents\DevFolder\LCA_c-221_Ben_Laycock\ManyMethods\ManyMeth
 C:\Users\blaycock\Documents\DevFolder\LCA_c-221_Ben_Laycock\ManyMethods\ManyMethods\obj\Debug\ManyMethods.csproj.CoreCompileInputs.cache
 C:\Users\blaycock\Documents\DevFolder\LCA_c-221_Ben_Laycock\ManyMethods\ManyMethods\obj\Debug\ManyMethods.exe
 C:\Users\blaycock\Documents\DevFolder\LCA_c-221_Ben_Laycock\ManyMethods\ManyMethods\obj\Debug\ManyMethods.pdb
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\bin\Debug\ManyMethods.exe.config
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\bin\Debug\ManyMethods.exe
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\bin\Debug\ManyMethods.pdb
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\obj\Debug\ManyMethods.csprojAssemblyReference.cache
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\obj\Debug\ManyMethods.csproj.CoreCompileInputs.cache
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\obj\Debug\ManyMethods.exe
+C:\Users\blaycock\Documents\DevFolder\csharp-projects\ManyMethods\ManyMethods\obj\Debug\ManyMethods.pdb
